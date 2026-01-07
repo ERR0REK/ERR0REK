@@ -1,6 +1,6 @@
 # 👋 Hi, I'm EX0T1C
 
-🎂 **17 y/o developer**  
+🎂 **17.5 y/o developer**  
 💻 Interested in **modern technologies & web development**
 
 ---
@@ -8,7 +8,7 @@
 ## 🚀 About me
 I'm a young developer who started using GitHub in **2024**, but my real development journey began in **2025**.
 
-I'm still **learning software development from scratch**, focusing on real projects, practice, and understanding how things actually work — not just copying code.
+I'm still **learning software development from scratch**, focusing on real projects, practice, and understanding how things actually work not just copying code.
 
 ---
 
